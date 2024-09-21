@@ -1,9 +1,7 @@
-[![Latest Stable Version](https://img.shields.io/packagist/v/nguyenanhung/excel-on-php.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/excel-on-php)
-[![Total Downloads](https://img.shields.io/packagist/dt/nguyenanhung/excel-on-php.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/excel-on-php)
-[![Daily Downloads](https://img.shields.io/packagist/dd/nguyenanhung/excel-on-php.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/excel-on-php)
-[![Monthly Downloads](https://img.shields.io/packagist/dm/nguyenanhung/excel-on-php.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/excel-on-php)
-[![License](https://img.shields.io/packagist/l/nguyenanhung/excel-on-php.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/excel-on-php)
-[![PHP Version Require](https://img.shields.io/packagist/dependency-v/nguyenanhung/excel-on-php/php)](https://packagist.org/packages/nguyenanhung/excel-on-php)
+[![Latest Stable Version](https://img.shields.io/packagist/v/nguyenanhung/phpexcel.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/phpexcel)
+[![Total Downloads](https://img.shields.io/packagist/dt/nguyenanhung/phpexcel.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/phpexcel)
+[![License](https://img.shields.io/packagist/l/nguyenanhung/phpexcel.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/phpexcel)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/nguyenanhung/phpexcel/php)](https://packagist.org/packages/nguyenanhung/phpexcel)
 
 # Template start helper, library
 
